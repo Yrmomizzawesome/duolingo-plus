@@ -1,5 +1,5 @@
 # duolingo-plus
-With this script you can get 24 weeks of Duolingo Plus
+With this script you can get 24 weeks of Duolingo Plus. Working on 19.09.2021
 ### Instruction:
 1) pip install requirements.txt
 2) paste your refferal link ('https://invite.duolingo.com/xxxxx') into 'ref_link' variable in functions.py
