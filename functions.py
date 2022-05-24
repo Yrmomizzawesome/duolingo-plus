@@ -4,7 +4,7 @@ from re import search
 from faker import Faker
 from random import randint
 
-ref_link = ''  # your link 'https://invite.duolingo.com/xxxxx' here
+ref_link = ''  # your link 'https://invite.duolingo.com/BDHTZTB5CWWKSGMSXEOPEETCZY' here
 
 
 def reg_acc():
